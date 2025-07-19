@@ -13,7 +13,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 ## Counter-Strike 1.6
 
 🕓 de_airstrip  
-🔵 de_aztec  
+✅ de_aztec  
 🕓 de_cbble  
 🕓 de_chateau  
 🕓 de_dust  
@@ -27,14 +27,14 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🔵 de_train  
 ✅ de_vertigo  
 
-🕓 cs_747  
+🔵 cs_747  
 ✅ cs_assault  
 🕓 cs_backalley  
 🕓 cs_estate  
 🕓 cs_havana  
-🕓 cs_italy  
+🔵 cs_italy  
 ✅ cs_militia  
-🕓 cs_office  
+🔵 cs_office  
 🕓 cs_siege  
 
 🕓 as_oilrig  
