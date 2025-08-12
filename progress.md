@@ -30,7 +30,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🔵 cs_747  
 ✅ cs_assault  
 🕓 cs_backalley  
-🕓 cs_estate  
+🔵 cs_estate  
 🕓 cs_havana  
 🔵 cs_italy  
 ✅ cs_militia  
