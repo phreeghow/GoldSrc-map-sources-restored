@@ -35,7 +35,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🔵 cs_italy  
 ✅ cs_militia  
 ✅ cs_office  
-🕓 cs_siege  
+🔵 cs_siege  
 
 🕓 as_oilrig  
 
